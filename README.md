@@ -1,4 +1,4 @@
-# BOLD-Bias-in-open-ended-language-generation
+# BOLD: Dataset and Metrics for Measuring Biases in Open-Ended Language Generation
 A dataset for measuring biases in open ended language generation
 
 The dataset for the paper BOLD: Dataset and Metrics for Measuring Biases in Open-Ended Language Generation 
